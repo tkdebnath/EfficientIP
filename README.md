@@ -9,10 +9,11 @@
 Define the values for below variables
 
 ```
-#Sensitive data
-Token_ID = "XXXXXXXX"
-Token_Secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+# Sensitive data
+Token_ID = "XXXXXXXXXXXXXXXXXXXXX"
+Token_Secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 Hostname = "https://example.com"
+DNS_Name = "DNS.example.com"
 ```
 
 ### Step 2: Efficient_IP_tasks.py
