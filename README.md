@@ -25,7 +25,7 @@ DNS_Name = "DNS.example.com"
 load the .xlsx file in Efficient_IP_tasks.py and execute 
 
 # API Guide
-Refer SOLIDserver_API-Reference_REST-8.4.pdf for creating more functions in helper.py
+Refer API-Reference_REST.pdf for creating more functions in helper.py
 
 
 ## Author
