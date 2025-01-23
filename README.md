@@ -3,7 +3,12 @@
 ## DNS Records and lease CRUD functionality
 
 ## Steps to follow
-### Step 0: Install modules from requiremnets.txt
+### Step 0: Install modules from requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
 ### Step 1: Edit config.py
 
 Define the values for below variables
